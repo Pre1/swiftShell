@@ -1,0 +1,2 @@
+# swiftShell
+Swift shell prompt
